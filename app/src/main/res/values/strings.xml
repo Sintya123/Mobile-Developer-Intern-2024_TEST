@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobile Developmen Intern2024</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">WELCOME</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="firstname_lastname">FIRSTNAME LASTNAME</string>
+    <string name="email">EMAIL@GMAIL.COM</string>
+</resources>
